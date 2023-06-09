@@ -1,10 +1,10 @@
 # Chat App
 
-## Project Overview 
-
 The Chat App is a real-time chat application that allows users to send messages using AJAX and PHP for an asynchronous request-response cycle. This provides an interactive and engaging user experience when using the application. The application also features a login and sign-up page that allows users to create an account and use it as their profile when using the application.
 
 The Chat App is built using a combination of HTML, CSS, JavaScript, AJAX, and PHP, with MySQL as the database. The application is designed to be user-friendly and easy to navigate, with a clean and modern interface.
+
+![Preview](https://lh3.googleusercontent.com/I5agjwuAkvyWuJJTD-nFuqoZW3aaEo63aPOBNi4Ga2rU1FWcXYfi43bFvYKjxs-HS_XA4T7ex5KXWnCbyTnptpWxZ0quCI64-PHnRN3gJMIPIwpvl_47i5xC0K071hIMtJWKYuXXJqslCUmEZRyeXVZLhPQNONGG9Hp0S7pQRbomtMBr9LJtXLP3QJw6ytIJzVlZ8I15ZyKoiV-ixk7PIW9kH2vLzugzEAGHJhvJ8f0D8SmGwgIS_2WlolFTaGuWLqmB2PTFf1naD3ydbAjAMHOPxV_cht26SG_h1mkvLI210Zpx7nxrRFQltUcufawyUGr8Xd7CtUKQPQYtr2TDwsFjqH5zo-zI8pWckWc00tIr_l1oW1ztkuog978gkfTdwcHcVgMecn3qPErs56ml_SpmLBponPy9TcAr5qKHFTOsB9lhgZV3k_4aYftlYniZKGaXeUSApZtVkT3LJ_H59-GPNAYz_zL2k7HsM4pm3cTHIDMRYXta7gGeQW3WHfIaB5FGMytOnLE0pIU67XP-hzX1_d83wOm-SoD5OEuqMGoSnjNL33xXoJb403YSfXkZ_6lKhRId-Yo5NHjWQyeatbcdnlevukMfwxRsJy8vsyazg579Fc8l-Z3H89DGI-nbLbL4427N_7LogBXXn8SyovlXy0eBvVArT3ntSoMHNw5xv2u4146dJiQ86mL0Od6Al7xCyF4GTuuk9DqJc9GlsHN_YWsnJxvyrRQZBC0sN29kQavMBHMEVuDkR6NCXdyoXbPwoB97D5JGk6o2FUVDKbEGvX6RYhd8cXKwMYnusAFt3Z2HwQcwiS2pultS7nnaqpc-6CUTgvwTC3yTXbK7DJl6EXA-G1h4NQCdPPAsECnTu4pdz9uieIXn91kKnlFwUoyUGF_sRS0UKMGk2BrZC131ZhComhpwXCCPa6ubyGFyGP8bnXXZszznCPevWfq2TJQuPI-uqCiczNwcvHeCWA=w1006-h467-s-no?authuser=0)
 
 You can view the live website [here](https://chat-app.mido-kun.repl.co/).
 
